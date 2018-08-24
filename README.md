@@ -5,7 +5,7 @@ ionic simple starter for side menu projects, for whoever having errors installin
 
 
 # 1- clone the repo.
-# 2- cd to the repo directory.
+# 2- cd to the repo's directory.
 # 3- run the following commands 
  >>   npm install   
  >>   ionic cordova run browser   
